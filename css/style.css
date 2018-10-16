@@ -1,6 +1,26 @@
 body {
-  background-color: #ff0000;
+  background-color: linen;
   color: #0000FF;
+  font-size: 16px;
+  line-height: 1.6em;
+}
+h1 {
+  font-size: 4em;
+  line-height: 2em;
+}
+h3 {
+  font-size: 2em;
+  line-height: 1em;
+}
+h1, h3, p, figcaption {
+  color: black;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  color: cornflowerblue;
 }
 
 nav {
